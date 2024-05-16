@@ -1,5 +1,16 @@
 # Evaluating GRSTAPS
 
+# Additional Requirements
+1. Install git-lfs
+
+Once installed 
+```
+git lfs install
+git lfs pull
+```
+
+
+
 # Graphically Recursive Simultaneous Task Allocation, Planning, and Scheduling
 
 This repository includes the code used for 
